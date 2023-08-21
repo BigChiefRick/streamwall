@@ -1448,7 +1448,7 @@ function Facts() {
     <StyledFacts>
       <BLM></BLM>
       <TRM></TRM>
-      <TIN>/TIN>
+      <TIN></TIN>
     </StyledFacts>
   )
 }
