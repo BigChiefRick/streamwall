@@ -16,7 +16,7 @@ Under the hood, think of Streamwall as a specialized web browser for mosaicing v
 
 ## Setup
 
-1. Download streamwall. You can use git, or download and unzip https://github.com/chromakode/streamwall/archive/main.zip
+1. Download streamwall. You can use git, or download and unzip https://github.com/BigChiefRick/streamwall/archive/main.zip
 2. Open the streamwall directory in a console
    - In Windows, the LTS install from nodejs.org will install a program called "Node.js command prompt." Open this program; Command Prompt and Powershell may not have the correct environment variables. Once it's open, change directories to where you extracted the file, e.g., `> cd c:\Users\<myname>\Downloads\streamwall\`
    - On MacOS, you should be able to use the default system terminal or other terminals like iTerm2 as long as a sufficient version of Node is installed. With that open, change directories to where you extracted the file, e.g., `> cd ~/Downloads/streamwall`
